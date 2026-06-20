@@ -7,6 +7,7 @@ Desktop application for managing a My Little Pony figure collection.
 - Python
 - PySide6
 - SQLite
+- bcrypt
 
 ## Features
 
